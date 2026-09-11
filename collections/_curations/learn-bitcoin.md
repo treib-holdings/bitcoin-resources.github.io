@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Learn Bitcoin
+title: LearnBitcoin.com
 link: https://www.learnbitcoin.com
 author: LearnBitcoin.com
 type: learn
-star: YES
 order: 43
 ---
